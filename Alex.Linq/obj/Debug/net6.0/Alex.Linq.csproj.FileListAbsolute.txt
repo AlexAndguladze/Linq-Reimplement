@@ -1,0 +1,12 @@
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\bin\Debug\net6.0\Alex.Linq.deps.json
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\bin\Debug\net6.0\Alex.Linq.dll
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\bin\Debug\net6.0\Alex.Linq.pdb
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\obj\Debug\net6.0\Alex.Linq.csproj.AssemblyReference.cache
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\obj\Debug\net6.0\Alex.Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\obj\Debug\net6.0\Alex.Linq.AssemblyInfoInputs.cache
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\obj\Debug\net6.0\Alex.Linq.AssemblyInfo.cs
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\obj\Debug\net6.0\Alex.Linq.csproj.CoreCompileInputs.cache
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\obj\Debug\net6.0\Alex.Linq.dll
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\obj\Debug\net6.0\refint\Alex.Linq.dll
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\obj\Debug\net6.0\Alex.Linq.pdb
+C:\Users\Bazo\source\repos\Alex.Linq\Alex.Linq\obj\Debug\net6.0\ref\Alex.Linq.dll
