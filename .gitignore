@@ -361,3 +361,33 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+# Ignore any files in /bin and /obj Folders
+**/bin/*
+**/obj/*
+# Ignore Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Ignore build and output directories
+bin/
+obj/
+DesignTimeBuild/
+
+# Ignore NuGet package folder
+packages/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+
+# Ignore log files and other generated files
+*.log
+*.log.xml
+*.txt
+*.cache
+*.bak
